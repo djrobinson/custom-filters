@@ -2,7 +2,7 @@ app.controller('myController', function($scope) {
 
   $scope.friends = [
     {
-      name: 'Michael'
+      name: 'Aichael'
     },
     {
       name: 'Wes'
